@@ -13,12 +13,13 @@ htop \
 python3-pip \
 xournal \
 homebank \
-tldr
+tldr \
+pdfarranger
 ```
 
 Here's the 1-liner version:
 ```
-$ sudo apt install vlc mpv vim-gtk3 keepassxc solo-python nwipe gdebi htop python3-pip xournal homebank tldr
+$ sudo apt install vlc mpv vim-gtk3 keepassxc solo-python nwipe gdebi htop python3-pip xournal homebank tldr pdfarranger
 ```
 
 [//]: # (11:02am on May 29, 2022)
