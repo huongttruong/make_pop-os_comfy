@@ -9,4 +9,8 @@ Add this line to the `touchscreen` section:
 Option "Ignore" "on"
 ```
 
+[Source](https://www.youtube.com/watch?v=7qZBiOsXI_s), which has now been
+unlisted.  I'll try to find another [semantic](https://en.wikipedia.org/wiki/Semantic_Web) version,
+if I can.
+
 [//]: # (6:57pm on May 23, 2022)
