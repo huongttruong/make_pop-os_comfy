@@ -20,11 +20,12 @@ Also, the SP1 is hardly considered [repairable](https://www.ifixit.com/Device/Mi
 though despite this I'd like to act in accordance with the
 [right to repair](https://en.wikipedia.org/wiki/Right_to_repair) movement by
 reducing as much electronic waste as possible and take a stand against
-[planned obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence).  I
-am pretty sure Microsoft wanted to forget that the Surface Pro 1 and 2 even
+[planned obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence).
+
+I am pretty sure Microsoft wanted to forget that the Surface Pro 1 and 2 even
 existed, since these devices were hardly given a warm welcome to Windows 10
-(that is, unless you used an online Microsoft account) by the time the Surface
-Pro 4 came around.
+(that is, unless you used an online Microsoft account) by the time the
+Surface Pro 4 came around.
 
 There might be 1 more file about "extra" packages for Debian-/Ubuntu-based
 installs on better hardware in the future, but what's listed here is at least
