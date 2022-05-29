@@ -3,14 +3,32 @@
 The following files here document what I need to change for Pop!\_OS installed
 on the [Surface Pro 1](https://en.wikipedia.org/wiki/Surface_Pro).
 
+Anyways, I'm sure all the info also likely applies to the Surface Pro 2, but I
+cannot test this, as I do not have a Pro 2 device.
+
 The [Linux Surface kernel](https://github.com/linux-surface/linux-surface) is
 **not needed** for the touchscreen and stylus to properly function, as indicated
 by the [table](https://github.com/linux-surface/linux-surface/wiki/Supported-Devices-and-Features#surface-tablets)
 for the Surface tablets.
 
+Though the Surface Pro line uses neither[open source software](https://en.wikipedia.org/wiki/Free_and_open-source_software)
+nor [hardware](https://en.wikipedia.org/wiki/Open-source_hardware), I am
+outlining my "open as much as possible" approach to successfully running Linux
+on the SP1 as much as possible.
+
+Also, the SP1 is hardly considered [repairable](https://www.ifixit.com/Device/Microsoft_Surface_Pro),
+though despite this I'd like to act in accordance with the
+[right to repair](https://en.wikipedia.org/wiki/Right_to_repair) movement by
+reducing as much electronic waste as possible and take a stand against
+[planned obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence).  I
+am pretty sure Microsoft wanted to forget that the Surface Pro 1 and 2 even
+existed, since these devices were hardly given a warm welcome to Windows 10
+(that is, unless you used an online Microsoft account) by the time the Surface
+Pro 4 came around.
+
 There might be 1 more file about "extra" packages for Debian-/Ubuntu-based
 installs on better hardware in the future, but what's listed here is at least
-95% "there" to completion.
+95% "there" to completion, in line with the [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle).
 
 All I know is that I will never try to make my own distro with Debian Unstable
 and have a result result worse than what "online experts" will ever say about
