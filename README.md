@@ -11,10 +11,10 @@ The [Linux Surface kernel](https://github.com/linux-surface/linux-surface) is
 by the [table](https://github.com/linux-surface/linux-surface/wiki/Supported-Devices-and-Features#surface-tablets)
 for the Surface tablets.
 
-Though the Surface Pro line uses neither[open source software](https://en.wikipedia.org/wiki/Free_and_open-source_software)
+Though the Surface Pro line uses neither [open source software](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 nor [hardware](https://en.wikipedia.org/wiki/Open-source_hardware), I am
 outlining my "open as much as possible" approach to successfully running Linux
-on the SP1 as much as possible.
+on the SP1, an `X86_64` device over 9 years old from 2013.
 
 Also, the SP1 is hardly considered [repairable](https://www.ifixit.com/Device/Microsoft_Surface_Pro),
 though despite this I'd like to act in accordance with the
