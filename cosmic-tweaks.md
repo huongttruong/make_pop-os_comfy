@@ -131,11 +131,22 @@ Here are the changes I made in the GUI Settings application:
         * Turn off "Automatic Updates"
         * For "Show Update Notifications", pick: "Weekly"
 
-### Some other items to take care of
+### 6: Some other items to take care of
 
 * Startup Applications: uncheck "Flatpak transition"
     * We don't deal with Flatpaks here...
 * Disable Flatpak in Pop!\_Shop: Gear/Cog icon > Flatpak tab > Delete the single Flatpak source
     * Flatpaks, begone!
-
-[//]: # (8:41am on May 26, 2022)
+* GNOME Tweaks
+    * Appearance
+        * Cursor: DMZ-White
+    * Fonts (make fonts larger, but Fira looks best in Pop!\_OS)
+        * Interface Text: Fira Sans Regular, 12
+        * Document Text: Fira Sans  Regular, 14
+        * Monospace Text: Monospace Regular, 12
+        * Legacy Window Titles: Cantarell Bold, 12
+    * Top Bar
+        * Turn on Weekday
+        * Turn on Date
+    * Window Titlebars
+        * Titlebar Buttons: Turn on "Maximize"
