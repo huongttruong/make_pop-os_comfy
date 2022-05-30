@@ -4,4 +4,3 @@ I don't have to permanently the Bluetooth via blacklisting anymore.  Somehow, Po
 
 However, the top 3 answers (or whichever that don't involve `rfkill`?) are the solutions I'd try first in this [source](https://unix.stackexchange.com/questions/387502/disable-bluetooth-at-boot).
 
-[//]: # (9:28am on May 29, 2022)

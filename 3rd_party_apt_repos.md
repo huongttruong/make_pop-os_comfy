@@ -26,4 +26,3 @@ Always check to make sure instructions are up to date!
 * Wire's [Download page](https://wire.com/en/download/)
     * [Instructions](https://github.com/wireapp/wire-desktop/wiki/How-to-install-Wire-for-Desktop-on-Linux) are very easy to miss...
 
-[//]: # (May 23, 2022)

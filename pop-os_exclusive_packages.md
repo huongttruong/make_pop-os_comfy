@@ -22,4 +22,3 @@ Lastly, the GitHub [repo](https://github.com/system76/launch) for the mechanical
 and PCB designs are not to be confused with the repo for the Keyboard
 Configurator application [itself](https://github.com/pop-os/keyboard-configurator).
 
-[//]: # (10:23pm on May 23, 2022)

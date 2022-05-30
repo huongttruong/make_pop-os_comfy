@@ -11,4 +11,3 @@ On Arch Linux-based distros (like Manjaro), the packages for playing optical
 disc drive (CD, DVD, and Blu-ray) seem to be automatically installed with mpv
 and/or VLC.
 
-[//]: # (7:48pm on May 23, 2022)

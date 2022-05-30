@@ -33,3 +33,4 @@ dependency hell are left) and [Eddy](https://github.com/donadigo/eddy)
 preinstalled as an ElementaryOS replacement for [gdebi](https://tracker.debian.org/pkg/gdebi).
 
 (I think Pop!\_Shop is also based on the ElementaryOS app shop?)
+

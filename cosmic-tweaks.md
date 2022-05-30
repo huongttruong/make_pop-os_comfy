@@ -150,3 +150,4 @@ Here are the changes I made in the GUI Settings application:
         * Turn on Date
     * Window Titlebars
         * Titlebar Buttons: Turn on "Maximize"
+

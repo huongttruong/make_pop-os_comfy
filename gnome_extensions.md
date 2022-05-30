@@ -107,5 +107,3 @@ Here are the links:
 * [Window List](https://extensions.gnome.org/extension/602/window-list/)
 * [windowNavigator](https://extensions.gnome.org/extension/10/windownavigator/)
 
-[//]: # (1:02am on May 25, 2022)
-[//]: # (11:35am on May 28, 2022)

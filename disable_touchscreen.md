@@ -13,4 +13,3 @@ Option "Ignore" "on"
 unlisted.  I'll try to find another [semantic](https://en.wikipedia.org/wiki/Semantic_Web) version,
 if I can.
 
-[//]: # (6:57pm on May 23, 2022)
