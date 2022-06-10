@@ -14,7 +14,8 @@ python3-pip \
 xournal \
 homebank \
 tldr \
-pdfarranger
+pdfarranger \
+ncal
 ```
 
 Here's the 1-liner version:
